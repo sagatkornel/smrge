@@ -75,5 +75,3 @@ mu_max = 1e21 / M_Z  # ~10^21 GeV / M_Z
 
 t_min = np.log(mu_min)
 t_max = np.log(mu_max)
-
-print("asd")
