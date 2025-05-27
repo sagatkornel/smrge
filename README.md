@@ -6,3 +6,4 @@ defitions.py - it contains constants and initial conditions for rge equations.
 rge.py - it contains a class structure to compute 1- and 2-loop beta-functions with extra Yukawa-terms (top-, tau-, and bottom-kvark) and with only top-kvark Yukawa-term.
 
 example.py - it contains an example to execute the code to display the running of lambda coupling.
+
