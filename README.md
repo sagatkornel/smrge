@@ -7,4 +7,4 @@ rge.py - it contains a class structure to compute 1- and 2-loop beta-functions w
 
 example.py - it contains an example to execute the code to display the running of lambda coupling.
 
-smrge_equations_full.ipynb - it contains the full code including uncertainty calculations and 
+smrge_equations_full.ipynb - it contains the full code including uncertainty calculations and contour plots.
